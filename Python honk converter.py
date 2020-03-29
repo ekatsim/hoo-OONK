@@ -4,10 +4,6 @@ import re
 with open("C:\Python Text Files\Goosebible.txt", "r") as f:
     bible = f.read()
 
-# print(bible)
-# bible_lines = bible.split("\n")
-# print(bible_lines)
-
 goose_list_of_honks = ["hön", 
                        "hönk", 
                        "honk", 
